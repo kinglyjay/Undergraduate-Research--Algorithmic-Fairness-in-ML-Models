@@ -1,0 +1,17 @@
+# Data Manipulation
+pandas
+numpy
+
+# Machine Learning & Modeling
+scikit-learn
+xgboost
+
+# Fairness Audit & Interpretability
+shap
+
+# Visualization
+matplotlib
+seaborn
+
+# Environment
+jupyter
